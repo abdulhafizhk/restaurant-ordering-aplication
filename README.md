@@ -1,27 +1,29 @@
-# restaurant-ordering-aplication
-Application for ordering coffee
+# Restaurant Ordering Application
+<h2>An application that can be used for ordering drinks and food in cafes, restaurants, eateries, or similar establishments.</h2>
 
-An application that can be used for ordering drinks and food in cafes, restaurants, eateries, or similar establishments.
+<h4><ul>Owner/Admin <br></h4>
+<li> View reports<br></li>
+<li> Add/edit/delete items from the menu and their prices<br></li> 
+<li> Add/edit/delete users<br></li>
+</ul>
 
-Owner/Admin
- -View reports
- -Add/edit/delete items from the menu and their prices
- -Add/edit/delete users
+<h4><ul>Cashier<br></h4>
+ <li> View prices and total cost of orders<br></li>
+ <li> Confirm payment<br></li>
+ <li> Create proof of payment<br></li>
+</ul>
 
-Cashier
- -View prices and total cost of orders
- -Confirm payment
- -Create proof of payment
+<h4><ul>Waitstaff<br></h4>
+ <li> View menu and prices<br></li>
+ <li> Select menu items<br></li>
+ <li> View the total cost of orders<br></li>
+ <li> Create orders<br></li>
+ <li> Update orders<br></li>
+ <li> Delete orders<br></li>
+</ul>
 
-Waitstaff
- -View menu and prices
- -Select menu items
- -View the total cost of orders
- -Create orders
- -Update orders
- -Delete orders
-
- Kitchen
- -Receive orders
- -Confirm receipt of orders
- -Change order status to "ready to serve"
+ <ul><h4>Kitchen<br></h4>
+ <li> Receive orders<br>
+ <li> Confirm receipt of orders<br>
+ <li> Change order status to "ready to serve"<br>
+</ul>
